@@ -13,7 +13,7 @@ class MetasploitModule < Msf::Post
         super(
         'Name' => 'Telegram Notification for opened session',
         'Version' => '1.0',
-        'Description' => 'This Modul will notify you with a telegram message.',
+        'Description' => 'This Module will notify you with a telegram message.',
         'Author' => 'Ege Balcı <ege.balci@invictuseurope.com>',
         'License' => MSF_LICENSE,
         'Platform' => 'multi')
